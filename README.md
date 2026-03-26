@@ -1,11 +1,12 @@
-# Stellar Book Management Application
+# Book Management Application
 
-**Stellar Book Management Application** - Blockchain-Based Decentralized Book Management System
-**Stellar Book Management Application Contract ID** - CD7CH25VZ7FULCAGD2CCP2YMJAWYEBUWDEYEIUUB4ZMG5ZTZK2VFTDA5
+**Book Management Application** - Blockchain-Based Decentralized Book Management System
+
+**Book Management Application Contract ID** - CD7CH25VZ7FULCAGD2CCP2YMJAWYEBUWDEYEIUUB4ZMG5ZTZK2VFTDA5
 
 ## Project Description
 
-Stellar Book Management Application is a decentralized smart contract solution built on the Stellar blockchain using Soroban SDK. It provides a secure, immutable platform for managing book records directly on the blockchain. The contract ensures that your data is stored transparently and is only manageable through predefined smart contract functions, eliminating reliance on centralized database providers.
+Book Management Application is a decentralized smart contract solution built on the Stellar blockchain using Soroban SDK. It provides a secure, immutable platform for managing book records directly on the blockchain. The contract ensures that your data is stored transparently and is only manageable through predefined smart contract functions, eliminating reliance on centralized database providers.
 
 The system allows users to create, view, and delete book records, leveraging the efficiency and security of the Stellar network. Each book is uniquely identified and stored within the contract's instance storage, ensuring data persistence and reliability.
 
@@ -125,4 +126,4 @@ Deploy the smart contract to Stellar's Soroban network and interact with it usin
 
 ---
 
-**Stellar Book Management Application** - Structuring Data on the Blockchain
+**Book Management Application** - Structuring Data on the Blockchain
